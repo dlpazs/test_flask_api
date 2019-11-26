@@ -34,6 +34,7 @@ GET: /users/london/proximity
 * From the app's root directory and in a new terminal with the existing flask app running:
 
 ```
+env\Scripts\activate
 pytest -q app/test_router.py
 ```
 
