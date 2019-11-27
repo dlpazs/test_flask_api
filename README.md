@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-git clone ...
+git clone https://github.com/dlpazs/test_flask_api.git
 python -m venv env
 env\Scripts\activate
 pip install -r requirements.txt
